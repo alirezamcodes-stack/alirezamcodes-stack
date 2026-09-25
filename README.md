@@ -1,49 +1,34 @@
 <h1 align="center">Hi 👋, I'm Alireza</h1>
 
-<h3 align="center">
-Fachinformatiker für Anwendungsentwicklung | Software Development
-</h3>
+<p align="center">
+  Fachinformatiker für Anwendungsentwicklung
+</p>
 
 <p align="center">
-Learning software development by building practical projects and continuously improving my skills.
+  Building practical web applications while improving my backend and software development skills.
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🔭 Currently working on **KopfFit – Team Project**
-- 🌱 Learning **Python, Flask, JavaScript, HTML, CSS and SQLite**
-- 🧠 Focused on improving my skills through practical projects
-- 🔧 Interested in **Backend Development, Web Development and Clean Code**
-- 📫 Reach me at **alirezam.codes@gmail.com**
-
----
-
-### 🚀 Current Project
-
-**KopfFit**
-
-A team project where I apply and improve my skills in web development, backend development and working with Git/GitHub.
+- 🔭 Working on **KopfFit**
+- 🌱 Learning **Python, Flask, JavaScript and SQL**
+- 💻 Interested in **Backend & Web Development**
+- 📫 **alirezam.codes@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Current Project
 
-<p align="left">
+### KopfFit
 
-<img src="https://skillicons.dev/icons?i=python,flask,html,css,js,sqlite,mysql,git,github,figma" />
-
-</p>
+Team-based web application built with Python, Flask, JavaScript and SQLite.
 
 ---
 
-### 📊 GitHub
+## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alirezamcodes-stack&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezamcodes-stack&layout=compact&hide_border=true" />
+<p>
+  Python · Flask · HTML · CSS · JavaScript · SQLite · Git · GitHub
 </p>
